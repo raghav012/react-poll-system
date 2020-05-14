@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 25px;
+  color: #fff;
+  line-height: 45px;
+  text-align: center;
+  background: #000;
+  margin-left:10px;
+  margin-top:20px;
+  padding: 0;
+  border: springgreen solid 1px;
+  float: left;
+}
+
+.detail{
+  float: left;
+  margin-left: 50px;
+}
+.rag {
+  margin: auto;
+  border: salmon solid 1px;
+  width: 300px;
+  height: 60px;
+  display: block;
+}
+.number{
+  margin-top: 10px;
+  padding: 0;
+
+}
+.link {
+  margin-top: 10px;
+  padding: 0;
+
+}
+.detail{
+  font-size: 30px;
+  margin-top: 5px;
+  
+}
+.btn {
+  border: #61dafb solid 1px;
+  border-radius: 5px;
+  text-align: center;
+  margin-left:100px ;
+  margin-top: 5px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
